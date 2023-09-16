@@ -1,0 +1,14 @@
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\obj\Debug\net7.0\Home_work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\obj\Debug\net7.0\Home_work_1.AssemblyInfoInputs.cache
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\obj\Debug\net7.0\Home_work_1.AssemblyInfo.cs
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\obj\Debug\net7.0\Home_work_1.csproj.CoreCompileInputs.cache
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\bin\Debug\net7.0\Home_work_1.exe
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\bin\Debug\net7.0\Home_work_1.deps.json
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\bin\Debug\net7.0\Home_work_1.runtimeconfig.json
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\bin\Debug\net7.0\Home_work_1.dll
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\bin\Debug\net7.0\Home_work_1.pdb
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\obj\Debug\net7.0\Home_work_1.dll
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\obj\Debug\net7.0\refint\Home_work_1.dll
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\obj\Debug\net7.0\Home_work_1.pdb
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\obj\Debug\net7.0\Home_work_1.genruntimeconfig.cache
+C:\Users\Yurgenich\RiderProjects\Home_work_1\Home_work_1\obj\Debug\net7.0\ref\Home_work_1.dll
