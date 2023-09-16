@@ -1,0 +1,14 @@
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\obj\Debug\net7.0\Home_work_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\obj\Debug\net7.0\Home_work_3.AssemblyInfoInputs.cache
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\obj\Debug\net7.0\Home_work_3.AssemblyInfo.cs
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\obj\Debug\net7.0\Home_work_3.csproj.CoreCompileInputs.cache
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\bin\Debug\net7.0\Home_work_3.exe
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\bin\Debug\net7.0\Home_work_3.deps.json
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\bin\Debug\net7.0\Home_work_3.runtimeconfig.json
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\bin\Debug\net7.0\Home_work_3.dll
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\bin\Debug\net7.0\Home_work_3.pdb
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\obj\Debug\net7.0\Home_work_3.dll
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\obj\Debug\net7.0\refint\Home_work_3.dll
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\obj\Debug\net7.0\Home_work_3.pdb
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\obj\Debug\net7.0\Home_work_3.genruntimeconfig.cache
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_3\obj\Debug\net7.0\ref\Home_work_3.dll
