@@ -1,0 +1,14 @@
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\bin\Debug\net7.0\Home_work_4.exe
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\bin\Debug\net7.0\Home_work_4.deps.json
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\bin\Debug\net7.0\Home_work_4.runtimeconfig.json
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\bin\Debug\net7.0\Home_work_4.dll
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\bin\Debug\net7.0\Home_work_4.pdb
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\obj\Debug\net7.0\Home_work_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\obj\Debug\net7.0\Home_work_4.AssemblyInfoInputs.cache
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\obj\Debug\net7.0\Home_work_4.AssemblyInfo.cs
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\obj\Debug\net7.0\Home_work_4.csproj.CoreCompileInputs.cache
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\obj\Debug\net7.0\Home_work_4.dll
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\obj\Debug\net7.0\refint\Home_work_4.dll
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\obj\Debug\net7.0\Home_work_4.pdb
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\obj\Debug\net7.0\Home_work_4.genruntimeconfig.cache
+C:\Users\Yurgenich\RiderProjects\OOP_architecture\Home_work_4\obj\Debug\net7.0\ref\Home_work_4.dll
