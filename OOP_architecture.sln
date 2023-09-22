@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home_work_3", "Home_work_3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home_work_4", "Home_work_4\Home_work_4.csproj", "{98043758-9D8C-4110-BFE0-EEB67619C823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home_work_5", "Home_work_5\Home_work_5.csproj", "{0A08A0B4-549A-4E24-A304-080FA7331BFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{98043758-9D8C-4110-BFE0-EEB67619C823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98043758-9D8C-4110-BFE0-EEB67619C823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98043758-9D8C-4110-BFE0-EEB67619C823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A08A0B4-549A-4E24-A304-080FA7331BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A08A0B4-549A-4E24-A304-080FA7331BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A08A0B4-549A-4E24-A304-080FA7331BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A08A0B4-549A-4E24-A304-080FA7331BFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
